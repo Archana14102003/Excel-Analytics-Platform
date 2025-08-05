@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TamilDo - Data Analytics Platform
 
 A comprehensive MERN stack application for data analytics, visualization, and insights generation.
@@ -313,3 +314,7 @@ For support and questions:
 ---
 
 **Happy Coding! 🎉** 
+=======
+# Excel-Analytics-Platform
+Excel Analytics Platform using MERN Stack
+>>>>>>> 9995e7bb4439edf0617fe3963e288e845a676481

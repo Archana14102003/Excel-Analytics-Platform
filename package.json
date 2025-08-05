@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@react-three/fiber": "^9.2.0",
@@ -25,4 +26,24 @@
     "three": "^0.178.0",
     "xlsx": "^0.18.5"
   }
+=======
+  "name": "zidio",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0",
+    "validator": "^13.15.15"
+  },
+  "devDependencies": {}
+>>>>>>> 9995e7bb4439edf0617fe3963e288e845a676481
 }
